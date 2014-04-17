@@ -1,5 +1,5 @@
 //
-//  CKViewController.h
+//  CKTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Devin Medeiros on 4/16/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CKViewController : UIViewController
+@interface CKTableViewController : UITableViewController
 
 @end
